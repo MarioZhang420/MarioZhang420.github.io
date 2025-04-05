@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Wisconsin-Madison</a>. Madison, WI
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Wenzhuo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>306 W main street</p>
