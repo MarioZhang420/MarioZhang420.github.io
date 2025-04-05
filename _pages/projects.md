@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Hobby
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Life is not only about the hardships before you, but also about poetry and the distant horizon.
 nav: true
 nav_order: 3
 display_categories: [work, fun]

@@ -1,12 +1,13 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Wenzhuo Zhang",
+    "School": "University of Wisconsin-Madison",
+    "Major": "Computer Science",
+    "image": "assets/img/personal_photo.jpg",
+    "email": "wzhang758@wisc.edu",
+    "phone": "+1 (608)867-7875",
+    "url": "",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,176 +25,195 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Look Took",
+      "position": "Software development Intern",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2025-02",
+      "endDate": "2025-04",
+      "summary": "Based on the React framework, develop relevant pages and features for the LookTook e-commerce app according to the functionality and page design requirements from the design department.",
+      "highlights": [""]
+    },
+    {
+      "name": "ZHONGXU Group",
+      "location": "Guangzhou, China",
+      "position": "H5 Frontend Engineer Intern",
+      "url": "https://example.com",
+      "startDate": "2024-12",
+      "endDate": "2025-01",
+      "summary": "In this role, my primary responsibilities include interpreting the interface design documents provided by the planning team and implementing and initializing components within the Egret Wing game engine. Subsequently, I use TypeScript to write scripts, progressively realizing the functionality of each component as outlined in the design.",
+      "highlights": [""]
+    },
+    {
+      "name": "RASTAR GAMES",
+      "location": "Guangzhou, China",
+      "position": "The server-side developer Intern",
+      "url": "https://example.com",
+      "startDate": "2023-08",
+      "endDate": "2023-10",
+      "summary": "Wrote web games with Vue2/3 on prototype games that the team had created, maintained existing game webpages and repaired bugs, and learned about the work content and requirement of the game industry.",
+      "highlights": [""]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
+      "organization": "Guangzhou No.2 High School",
+      "location": "Guangzhou, China",
       "position": "Lead Organizer",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "startDate": "2020-09-01",
+      "endDate": "2020-11-28",
+      "summary": "Initiated and organized a nationwide business simulation challenge engaging high school students across China, designed to deepen their knowledge of business, promote early career exploration, and build awareness of academic pathways in university.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Guangdong University Of Finance & Economics",
+      "location": "Guangzhou, China",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "area": "Software Engineering",
+      "studyType": "",
+      "startDate": "2022-09-01",
+      "endDate": "2024-07-15",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["CS200 - Programming I","CS X12 - Intro to Computer Science","CS X12 - VR Technology Basis","CS X12 - Basics of Artificial Intelligence","CS X12 - Foundation of HTML5","CS X13 - Program Design in Java",
+      "LIS202 - Informational Divides and Differences in a Multicultural Society"
+      ,"CS X13 - UI interface design"
+      ,"CS X16 - OO Programming"
+      ,"CS X16 - Database Principle"
+      ,"CS X16 - Web Development Technology II"
+      ,"CS X16 - Discrete Math Structures"
+      ,"CS X21 - Programming Basics"
+      ,"CS X21 - Web Development Tech I"
+      ,"MATH 221 - Calculus&Analytic Geometry 1"
+      ,"MATH 222 - Calculus&Analytic Geometry 2"
+      ,"MATH 340 - Elem Matrix & Linear Algebra"
+      ,"MATH X15 - Higher Math II"
+      ,"MATH X16 - Higher Math I"
+      ,"STAT X11 - Theory of Prob&Math Statistic"
+      ,"ART 346 - Basic Graphic Design"
+      ,"ASIALANG X10 - College Chinese"
+      ,"ESL X10 - College English I"
+      ,"ESL X10 - College English II"
+      ,"ESL X10 - College English III"
+      ,"ESL X10 - College English IV"
+      ,"GEN ELCTX10 - Physical Education I"
+      ,"GEN ELCTX10 - Physical Education II"
+      ,"GEN ELCTX10 - Code for Healthy Diet"
+      ,"GEN ELCTX10 - Take you to play VR Virtual R"
+      ,"GEN ELCTX10 - Innovation Design Workshop"]
+    },
+    {
+      "institution": "University of Wisconsin-Madison",
+      "location": "Madison, Wisconsin",
+      "url": "https://www.uzh.ch/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2024-09-04",
+      "endDate": "2026-05-10",
+      "score": "10",
+      "courses": ["CS400 - Programming III","CS300 - Programming II","ECE252 - Introduction to Computer Engineering","CS354 - Machine Organization and Programming","CS524 - Introduction to Optimization","CS240 - Introduction to Discrete Mathematics","LIS202 - Informational Divides and Differences in a Multicultural Society","BIOCHEM104 - Molecules to Life and the Nature of Science","ESL117 - Academic Writing I","PHILO211 - Elementary Logic","PHYSICS107 - The Ideas of Modern Physics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Merit Award",
+      "date": "2023-05",
+      "awarder": "2023 Shuwei Cup National College Student Mathematical Modeling Competition",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Led a team in a nationwide and internationally-participated mathematical modeling competition with over 4,500 teams; awarded Excellence Prize for outstanding performance and problem-solving skills."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
+      "name": "Attribute-Based Interpretable Incremental Learning for Blood Cell Image Recognition",
+      "publisher": "MICCAI 2025",
+      "releaseDate": "2025-02",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Java, JavaScript, Python, C#"]
+    },
+    {
+      "name": "Databases and Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["MySQL, Elastic Search, AWS Lambda "]
+    },
+    {
+      "name": "Framework and Platforms",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Spring, AngularJS, Node.js, JQuery, HTML & CSS, React, Firebase"]
+    },
+    {
+      "name": "UI interface design tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Adobe Photoshop, Adobe Illustrator, AxureRP9, PxCook"]
+    },
+    {
+      "name": "Modeling tool",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Unity, 3dmax"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Cantonese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Professional Working",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "Online Order: A Spring Boot based online food ordering system",
+      "summary": "Lead Developer and Designer ",
+      "highlights": ["Developed CRUD REST APIs using Spring Controllers, encompassing functionalities such as registration, menu searching, ordering, and checkout.", "Leveraged Spring Data JDBC and repositories to interface with a PostgreSQL database hosted on AWS RDS, handling data related to menus, restaurants, and more.", "Implemented application authentication via Spring Security, employing session-based authentication mechanisms.", "Architected the project with a clear separation of concerns into controller, service, and repository layers, utilizing dependency injection for enhanced maintainability.", "Constructed the fronted using ReactJS and Ant Design, providing users with the ability to seamlessly add items to their shopping cart and place orders.", "Containerized the build and pushed image to AWS ECR, successfully deployed it to AWS App Runner for streamlined scalability and accessibility."],
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Next AI: Full-Stack Web-Based Q&A AI Agent for PDF Document Queries",
+      "summary": "Lead Developer and Designer ",
+      "highlights": ["Engineering an interactive conversation UI leveraging React and Ant Design, enabling users to effortlessly upload and interact with PDF documents in real-time.", "Architected and implemented RESTful APIs via Express and Node.js, optimized for high-performance request handling.", "Utilized a memory vector store to cache generated embeddings for efficient retrieval.", "Integrated OpenAI's GPT-3 5 Turbo API and Langchain technologies, resulting in a sophisticated AI Agent capable of document loading, splitting, storage, retrieval, and output functionalities."],
+      "startDate": "2024-01",
+      "endDate": "2024-03",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Social AI: an AI based Social Network",
+      "summary": "Lead Developer and Designer ",
+      "highlights": ["Frontend: ", "Designed and implemented a social network web application with React JS.", "Used OpenAI's Dall-E3 to assist users to create and update posts.", "Improved the authentication using token based registration/login/logout flow with React Router v4 and server-side user authentication with JWT.", "Backend: ", "Launched a scalable web service in Go to handle posts and deployed to Google Cloud (Google App Engine)", "Used ElasticSearch (deployed to GCE) to provide search functions such that users can search recent posts and list personal posts."],
+      "startDate": "2024-04",
+      "endDate": "2024-06",
+      "url": "https://example.com"
+    },
+    {
+      "name": "MiniSpotify: A Personalized Spotify Favorite Management App",
+      "summary": "Lead Developer and Designer ",
+      "highlights": ["Designed a Kotlin Spotify favorite app by fully leveraging Android Jetpack Library and Hilt Dependency Injection.", "Implemented the BottomBar & App Navigation using Jetpack Navigation component.", "Created a mock RESTFUL Api json-server and used the Retrofit to handle requests.", "Built the feed/album/favorite UI in Jetpack Compose following MVVM architecture.", "Enabled the local cache ability for favorite feature by using Room Database.", "Integrated the Google Exoplayer to handle the global music playback."],
+      "startDate": "2024-02",
+      "endDate": "2024-05",
       "url": "https://example.com"
     }
   ]
