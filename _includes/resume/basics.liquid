@@ -7,8 +7,8 @@
     1) fields：累积生成的文本字段HTML
     2) image_value：头像URL
   {%- endcomment -%}
-  {% assign fields = "" %}
-  {% assign image_value = "" %}
+  {% assign fields = '' %}
+  {% assign image_value = '' %}
 
   {%- comment -%}
     第1步：遍历 data[1]，把每个字段按键key、值value处理
@@ -18,12 +18,12 @@
     {% assign value = content[1] %}
 
     <!-- 如果值为空，跳过 -->
-    {% if value == "" %}
+    {% if value == '' %}
       {% continue %}
     {% endif %}
 
     <!-- 如果是 image，就保存到 image_value -->
-    {% if key == "image" %}
+    {% if key == 'image' %}
       {% assign image_value = value %}
       {% continue %}
     {% endif %}
@@ -73,8 +73,11 @@
     <!-- 右侧头像 -->
     <td style="vertical-align: top; width: 30%; text-align: center;">
       {% if image_value %}
-        <img src="{{ image_value | relative_url }}" alt="Profile Photo"
-             style="max-width: 150px; border-radius: 4px;">
+        <img
+          src="{{ image_value | relative_url }}"
+          alt="Profile Photo"
+          style="max-width: 150px; border-radius: 4px;"
+        >
       {% endif %}
     </td>
   </tr>
