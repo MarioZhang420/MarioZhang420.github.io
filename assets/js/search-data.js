@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "You can also see the full PDF version of Resume by clicking the botton in the right top conrner.",
+          description: "You can also see the full PDF version of Resume by clicking the button in the top right corner.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -419,16 +419,29 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Python_Neural_Network_Programming/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-excited-to-share-that-i-ve-successfully-moved-into-the-team-matching-for-google-internship-in-shanghai-sparkles-smile",
           title: 'Excited to share that I’ve successfully moved into the team matching for Google...',
+          description: "",
+          section: "News",},{id: "news-joined-alibaba-group-in-guangzhou-as-a-software-development-intern",
+          title: 'Joined Alibaba Group in Guangzhou as a Software Development Intern.',
+          description: "",
+          section: "News",},{id: "news-started-a-semester-as-a-visiting-student-in-computer-science-at-uc-berkeley-bear",
+          title: 'Started a semester as a visiting student in Computer Science at UC Berkeley....',
+          description: "",
+          section: "News",},{id: "news-joined-tencent-america-in-palo-alto-as-an-it-application-developer-intern-building-rag-and-multi-agent-apps-for-ai-driven-it-operations",
+          title: 'Joined Tencent America in Palo Alto as an IT Application Developer Intern, building...',
+          description: "",
+          section: "News",},{id: "news-started-my-software-engineer-internship-at-the-trade-desk-tada",
+          title: 'Started my Software Engineer internship at The Trade Desk! :tada:',
+          description: "",
+          section: "News",},{id: "news-wrapped-up-my-internship-at-the-trade-desk-the-dataset-backfill-and-experimentation-framework-i-built-is-now-used-across-the-kpi-model-team",
+          title: 'Wrapped up my internship at The Trade Desk. The dataset backfill and experimentation...',
+          description: "",
+          section: "News",},{id: "news-earned-the-aws-knowledge-cloud-essentials-training-badge",
+          title: 'Earned the AWS Knowledge: Cloud Essentials training badge.',
+          description: "",
+          section: "News",},{id: "news-graduating-in-december-2026-and-looking-for-2027-new-grad-software-engineering-roles-my-resume-is-up-to-date-so-feel-free-to-reach-out",
+          title: 'Graduating in December 2026 and looking for 2027 new grad software engineering roles....',
           description: "",
           section: "News",},{id: "projects-soccer",
           title: 'Soccer',
@@ -440,7 +453,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%77%7A%68%61%6E%67%37%35%38@%77%69%73%63.%65%64%75", "_blank");
+          window.open("mailto:%7A%68%61%6E%67%77%65%6E%7A%68%75%6F%38%35@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
@@ -461,7 +474,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/wenzhuo-zhang-879092329", "_blank");
+          window.open("https://www.linkedin.com/in/wenzhuozhang", "_blank");
         },
       },{
         id: 'social-rss',
@@ -469,13 +482,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
         },
       },{
         id: 'social-wechat_qr',
