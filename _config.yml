@@ -4,14 +4,14 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Wenzhuo
-middle_name: 
+middle_name:
 last_name: Zhang
 contact_note: >
   Feel free to connect me!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Wenzhuo Zhang: Computer Science senior at UW–Madison working on backend engineering, data infrastructure, and AI/ML systems.
 footer_text: >
-  
+
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 keywords: Wenzhuo Zhang, software engineer, machine learning, backend, data infrastructure, UW-Madison # add your own keywords or leave empty
